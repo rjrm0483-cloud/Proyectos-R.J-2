@@ -1,0 +1,17 @@
+{
+  "name": "Sola FV Pro — Dimensionamiento Solar",
+  "short_name": "Sola FV Pro",
+  "description": "Calculadora de dimensionamiento fotovoltaico On-Grid, Off-Grid e Híbrido. Funciona sin internet.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "icons": [
+    { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "img/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
